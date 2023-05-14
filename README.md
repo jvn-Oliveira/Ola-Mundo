@@ -1,2 +1,2 @@
 # Ola-Mundo
- Primeiro passos com o Git e Github
+ Primeiro passos com o Git e GitHub
